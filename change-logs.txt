@@ -1,0 +1,28 @@
+
+
+Version: 1.0.3 —-—-DATE: 16-03-2023
+
+1. Updated: Gatsby v4.24.6 to v5.7.0
+2. Updated: Gatsby Other all plugins
+3. Updated: Graphql Page Query
+
+------------------------------
+
+Version: 1.0.2 —-—-DATE: 02-11-2022
+
+1. Updated: Update to react 18
+2. Updated: All Other plugins
+
+------------------------------
+
+Version: 1.0.1 —-—-DATE: 04-07-2021
+
+1. Updated: Gatsby v3.0.1 to v3.8.1
+2. Updated: Gatsby Plugin Image v1.1.2 to v1.8.0
+3. Updated: React Bootstrap v1.5.2 to v1.6.1
+
+
+------------------------------
+
+Version 1.0.0
+- Initial Release
